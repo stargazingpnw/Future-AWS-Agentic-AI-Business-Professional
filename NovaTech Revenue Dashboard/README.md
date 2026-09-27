@@ -11,6 +11,7 @@ A support system with every customer ticket — severity, resolution time, and s
 Nobody could trace a marketing campaign through to a closed deal, or tell whether a high-value account was quietly becoming a high-maintenance one. This dashboard connects all three, in one place, for the whole revenue team.
 
 What's Inside
+
 A three-sheet QuickSight dashboard, each sheet answering one core business question:
 
 Sheet	Answers

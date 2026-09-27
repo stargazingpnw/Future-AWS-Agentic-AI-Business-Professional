@@ -49,26 +49,6 @@ Filter controls on the Marketing Funnel and Sales Pipeline sheets (campaign, cha
 A one-click filter action on the Customer Health sheet — selecting a bar updates related charts on the same sheet
 A cross-sheet navigation action — clicking an at-risk account jumps to its full deal history on the Sales Pipeline sheet
 Natural-language querying via a configured QuickSight Topic, letting stakeholders ask plain-English questions directly against the data
-Repository Contents
-├── README.md                          # this file
-├── data/
-│   ├── novatech_crm_deals.csv
-│   ├── novatech_marketing_campaigns.csv
-│   └── novatech_support_tickets.csv
-├── docs/
-│   ├── data-dictionary.md             # field-level documentation for all three source datasets
-│   ├── build-plan.md                  # full data prep, join, and dashboard build plan
-│   └── report.pdf                     # written report for VP Sarah Chen — data strategy, design rationale, key insights
-├── screenshots/
-│   ├── verification-log.png           # data quality checks against Quick Chat
-│   ├── spice-import.png               # dataset import confirmation (row/column counts)
-│   ├── join-diagram.png               # unified dataset join configuration
-│   ├── marketing-funnel.png
-│   ├── sales-pipeline.png
-│   ├── customer-health.png
-│   ├── topic-setup.png                # Topic configuration
-│   └── quick-chat-before-after.png    # baseline vs. post-Topic Q&A comparison
-└── dashboard-export.pdf               # exported PDF of the full published dashboard, all three sheets
 
 Built With
 Amazon QuickSight (Enterprise Edition) — dashboard, SPICE datasets, and Topics/Quick Chat for natural-language querying

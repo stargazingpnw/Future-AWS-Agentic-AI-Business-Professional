@@ -3,6 +3,7 @@
 An interactive Amazon QuickSight dashboard that unifies CRM, marketing, and customer support data into a single, decision-ready view for the revenue team — built to replace a Monday-morning ritual of copy-pasting numbers from three disconnected tools into a slide deck.
 
 The Problem
+
 NovaTech's revenue data lived in three separate systems that couldn't talk to each other:
 A CRM with every sales deal ever worked — accounts, products, outcomes, and loss reasons
 A marketing platform with campaign performance — channels, leads, and attributed revenue

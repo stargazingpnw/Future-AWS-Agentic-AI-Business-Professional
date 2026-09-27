@@ -1,4 +1,5 @@
 #NovaTech Revenue Dashboard
+
 An interactive Amazon QuickSight dashboard that unifies CRM, marketing, and customer support data into a single, decision-ready view for the revenue team — built to replace a Monday-morning ritual of copy-pasting numbers from three disconnected tools into a slide deck.
 
 The Problem

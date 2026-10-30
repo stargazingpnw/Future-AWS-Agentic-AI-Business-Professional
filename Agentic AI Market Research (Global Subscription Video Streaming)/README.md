@@ -56,4 +56,4 @@ flowchart LR
 **Netflix Movies and TV Shows** by Shivam Bansal, Kaggle: <https://www.kaggle.com/datasets/shivamb/netflix-shows>
 Fields: `show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description`. Used unmodified.
 
-Completed as part of the Udacity Future AWS Agentic AI Business Professional Nanodegree. This is an educational project, not investment or business advice.
+*Completed as part of the Udacity Future AWS Agentic AI Business Professional Nanodegree. This is an educational project, not investment or business advice.*
